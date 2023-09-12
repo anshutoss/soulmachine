@@ -6,7 +6,7 @@
 // this StackBlitz demo: 'https://web-platform-9chn6x.stackblitz.io'
 // Note that the URL will change if you fork this project
 const apiKey =
-  'eyJzb3VsSWQiOiJkZG5hLXNvdWxfbWFjaGluZXMtZGlhbG9nZmxvd19leGFtcGxlIiwiYXV0aFNlcnZlciI6Imh0dHBzOi8vZGguc291bG1hY2hpbmVzLmNsb3VkL2FwaS9qd3QiLCJhdXRoVG9rZW4iOiJhcGlrZXlfdjFfN2IxM2NiNTQtZTllMy00NmFjLWFjMWMtODQwY2RjMjZhZWQzIn0=';
+  'eyJzb3VsSWQiOiJkZG5hLXJhbmktbWFsaG90cmEtLWRpZ2l0YWwtY2hpZWYtZXhwZXJpZW5jZS0iLCJhdXRoU2VydmVyIjoiaHR0cHM6Ly9kaC5hei5zb3VsbWFjaGluZXMuY2xvdWQvYXBpL2p3dCIsImF1dGhUb2tlbiI6ImFwaWtleV92MV9mMDZmMTc5Zi1jNTkyLTQxMjgtYTA1Yy0zM2QzZjM4ZDE5MTcifQ==';
 
 let scene;
 
